@@ -10,3 +10,6 @@ CLIP
 5. CLIP5 'Light and color' https://youtu.be/QmqNHfM7-xU
 6. CLIP6 'Rerder' https://youtu.be/QmqNHfM7-xU
 7. CLIP7 'Video editor' https://youtu.be/fWG5BkDKoDg
+
+PROJECT
+https://github.com/6210612666/anim63b/blob/main/project.md
