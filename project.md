@@ -1,4 +1,5 @@
-\
+~~~
+
 * Project https://www.youtube.com/watch?v=CGkG2FO5tdY (final clip)
 
 1. Character - Insect   | https://github.com/6210612666/anim63b/blob/main/insect.blend
@@ -11,4 +12,4 @@
                
 2. Scene     - https://github.com/6210612666/anim63b/blob/main/scene.blend
                
-\
+
