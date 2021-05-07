@@ -1,8 +1,10 @@
 # anim63b
 
-นางสาว กชมล อัครเบญจสิริ 6210612666
+`My name's Kodchamol  Aukkarabenjasiri. number ID is 6210612666.
+This is my clip and project of cn335 about animation.you can click link UML.`
 
-CLIP
+**CLIP**
+
 1. CLIP1 'sign up github'
 2. CLIP2 'Design Donut' https://youtu.be/rstEdod4YR4 https://youtu.be/CbcI4IXzpu0 https://youtu.be/pNoXBn-OlzA
 3. CLIP3 'Design model' https://youtu.be/GBxtgC4kgyU
@@ -10,6 +12,6 @@ CLIP
 5. CLIP5 'Light and color' https://youtu.be/QmqNHfM7-xU
 6. CLIP6 'Rerder' https://youtu.be/QmqNHfM7-xU
 7. CLIP7 'Video editor' https://youtu.be/fWG5BkDKoDg
-
-PROJECT
-https://github.com/6210612666/anim63b/blob/main/project.md
+------------------------------------------
+**PROJECT**
+- https://github.com/6210612666/anim63b/blob/main/project.md
