@@ -1,5 +1,7 @@
+\\\
+# Project 
 
-# Project https://www.youtube.com/watch?v=CGkG2FO5tdY (final clip)
+https://www.youtube.com/watch?v=CGkG2FO5tdY (final clip)
 
 1. Character - Insect   | https://github.com/6210612666/anim63b/blob/main/insect.blend
                Bear     | https://github.com/6210612666/anim63b/blob/main/bear.blend
@@ -10,5 +12,9 @@
                Glass    | https://github.com/6210612666/anim63b/blob/main/glass.blend     : credit  https://free3d.com/3d-model/mug-829988.html
                
 2. Scene     - https://github.com/6210612666/anim63b/blob/main/scene.blend
-               
+3. Sound     - https://www.youtube.com/watch?v=1SupONsbY-U&list=PLH74N3l92aIaA9JeLACe7t50gZNxEdKS3&index=2
+               https://www.youtube.com/watch?v=WS_3OCcKiJ0&list=PLH74N3l92aIaA9JeLACe7t50gZNxEdKS3&index=9
+               https://www.youtube.com/watch?v=sj9J2ecsSpo
+               https://www.youtube.com/watch?v=BpSygUv0qEE&t=40s              
 
+\\\
