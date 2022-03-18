@@ -14,4 +14,6 @@ This is my clip and project of cn335 about animation.you can click link URL.`
 7. CLIP7 'Video editor' https://youtu.be/fWG5BkDKoDg
 ------------------------------------------
 **PROJECT**
+
+`A fly in the cup: Model&Final clip
 - https://github.com/6210612666/anim63b/blob/main/project.md
