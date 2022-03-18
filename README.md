@@ -15,5 +15,5 @@ This is my clip and project of cn335 about animation.you can click link URL.`
 ------------------------------------------
 **PROJECT**
 
-`A fly in the cup: Model&Final clip
+`A fly in the cup: Model&Final clip`
 - https://github.com/6210612666/anim63b/blob/main/project.md
