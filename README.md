@@ -1,7 +1,7 @@
 # anim63b
 
 `My name's Kodchamol  Aukkarabenjasiri. number ID is 6210612666.
-This is my clip and project of cn335 about animation.you can click link UML.`
+This is my clip and project of cn335 about animation.you can click link URL.`
 
 **CLIP**
 
